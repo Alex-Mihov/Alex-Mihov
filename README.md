@@ -1,7 +1,9 @@
 # 👋 Ciao, sono Alex Mihov!
 
 💻 Full Stack Developer formato con un corso intensivo di 600 ore presso Boolean
+
 ⚛️ Specializzato in React con esperienza pratica nello sviluppo di applicazioni moderne
+
 🚀 Sempre alla ricerca di nuovi stimoli e tecnologie da esplorare
 
 ---
