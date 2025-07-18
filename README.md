@@ -40,7 +40,10 @@
 > 
 > API RESTful che gestisce la logica completa dell'e-commerce: processa ricerche e filtraggio prodotti, amministra ordini e carrelli, gestisce le interazioni con le recensioni e invia automaticamente email di conferma. Offre endpoint sicuri per l'autenticazione e la gestione dati.
 
---- 📫 Contatti
+--- 
+## 📫 Contatti
+
 ✉️ alexmihov.as@gmail.com
-🌐 [LinkedIn](www.linkedin.com/in/alex-mihov-45347a17b) 
+
+🌐 [LinkedIn](https://www.linkedin.com/in/alex-mihov-45347a17b/) 
 
